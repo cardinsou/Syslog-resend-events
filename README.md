@@ -1,6 +1,6 @@
 # Syslog-resend-events
 
-This script aims to resend syslog events during SIEM or Syslog server ingestion configuration.
+This script is intended for resending syslog events when configuring data ingestion for a SIEM or a Syslog server. You must place the syslog messages into a file —one per line— and select the transmission mode.
 
 Usage:
 
